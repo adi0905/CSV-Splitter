@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # CSV-Splitter
-=======
+
 # 📂 CSV Splitter
 
 **CSV Splitter** is a simple and user-friendly Python desktop application that splits a large Excel or CSV file into multiple smaller files based on a selected column. Each unique value in the column becomes a separate file.
